@@ -1,4 +1,15 @@
-# ContaBanco – DIO | Trilha Java Básico
+<div align="center">
+
+![Conta Banco](assets/cover.svg)
+
+# Conta Banco
+
+Estudo de conceitos básicos de Java aplicados a uma conta bancária
+
+**Estudo Java**
+
+</div>
+
 
 Este repositório contém a resolução do desafio **ContaBanco** do Bootcamp Santander/DIO.
 
